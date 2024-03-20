@@ -7,7 +7,7 @@ Skills: PYTHON/ DJANGO / REACT / JS / HTML / CSS
 - 🔭 I’m currently working on ad_ecom project 
 - 🌱 I’m currently learning nextjs, mongodb, redis 
 
-![image title](https://rushter.com/counter.svg)
+[![HitCount](https://hits.dwyl.com/Mariful-Islam/fin-react-app.svg)](https://hits.dwyl.com/Mariful-Islam/fin-react-app)
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Mariful-Islam)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mariful-islam-saad-a479a2192/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/saad590)  
@@ -18,8 +18,6 @@ Skills: PYTHON/ DJANGO / REACT / JS / HTML / CSS
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Mariful-Islam)  
 
-![GitHub metrics](https://metrics.lecoq.io/Mariful-Islam)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Mariful-Islam)  
 
-![Profile views](https://gpvc.arturio.dev/Mariful-Islam)  

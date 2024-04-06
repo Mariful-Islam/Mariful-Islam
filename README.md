@@ -1,6 +1,6 @@
 ### Hi there 👋, This is Mariful Islam
-#### Software Engineer
-I am a fresher with several real-life projects based on Python, Django, and React. Also, I am continuously developing new projects and contributing to these projects.
+#### Software Developer
+Enthusiastic Python/Django developer with a passion for creating cutting-edge software solutions. Proficient in Django, React.js, and Django Rest Framework. Eager to leverage my skills and expertise to contribute to innovative projects and drive business success.
 
 Skills: PYTHON/ DJANGO / REACT / JS / HTML / CSS
 
